@@ -1,8 +1,8 @@
 # Digital Design Projects - Verilog Implementations
 
-[cite_start]This repository contains a collection of digital logic design projects implemented in **Verilog/SystemVerilog** using **Vivado 2025.2**[cite: 311, 336, 364]. The projects range from arithmetic units to hardware-level encryption and ROM-based lookup tables.
+This repository contains a collection of digital logic design projects implemented in **Verilog/SystemVerilog** using **Vivado 2025.2**. The projects range from arithmetic units to hardware-level encryption and ROM-based lookup tables.
 
-[cite_start]All projects are targeted for the **Xilinx Spartan-7 FPGA (Part: xc7s50csga324-1)**.
+All projects are targeted for the **Xilinx Spartan-7 FPGA (Part: xc7s50csga324-1)**.
 
 ---
 
